@@ -1,5 +1,5 @@
 # me
-im a fully self taught young developer i like rust, python and go (kinda)
+![image]({https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324})
 ```  
                    .88888888:.
                 88888888.88888.
