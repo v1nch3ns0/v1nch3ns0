@@ -33,7 +33,7 @@
 <div align="center">
 <h2><samp>about me</samp></h2>
 <samp>$ from the UK</samp><br>
-<samp>$ arch linux user (I use Arch btw)</samp><br>
+<samp>$ arch linux user (i use arch btw)</samp><br>
 <samp>$ fully selftaught dev</samp><br>
 <samp>$ loves rust, python, and shell script</samp><br>
 </div>
