@@ -1,16 +1,29 @@
-## Hi there 👋
-
-<!--
-**v1nch3ns0/v1nch3ns0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# me
+im a fully self taught young developer i like rust, python and go (kinda)
+```  
+                   .88888888:.
+                88888888.88888.
+              .8888888888888888.
+              888888888888888888              "...program not because you expect to be paid or
+              88' _`88'_  `88888                  for the public to adore you, but because programming
+              88 88 88 88  88888                  is fun for you." - Linus Torvalds
+              88_88_::_88_:88888
+              88:::,::,:::::8888
+              88`:::::::::'`8888
+             .88  `::::'    8:88.
+            8888            `8:888.
+          .8888'             `888888.
+         .8888:..  .::.  ...:'8888888:.
+        .8888.'     :'     `'::`88:88888
+       .8888        '         `.888:8888.
+      888:8         .           888:88888
+    .888:88        .:           888:88888:
+    8888888.       ::           88:888888
+    `.::.888.      ::          .88888888
+   .::::::.888.    ::         :::`8888'.:.
+  ::::::::::.888   '         .::::::::::::
+  ::::::::::::.8    '      .:8::::::::::::.
+ .::::::::::::::.        .:888:::::::::::::
+ :::::::::::::::88:.__..:88888:::::::::::'
+  `'.:::::::::::88888888888.88:::::::::'
+        `':::_:' -- '' -'-' `':_::::'```
