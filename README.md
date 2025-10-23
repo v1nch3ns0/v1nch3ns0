@@ -24,3 +24,6 @@
           .8888'             `888888.
 </pre>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1nch3ns0&layout=compact&theme=gruvbox&hide_border=true" />
+</p>
