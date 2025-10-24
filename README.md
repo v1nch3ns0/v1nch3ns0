@@ -26,10 +26,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=E57324&center=true&vCenter=true&width=500&lines=$+code+.;$+cargo+run+.;$+make+something+cool" />
-</p>
 <div align="center">
 <h2><samp>about me</samp></h2>
 <samp>$ from the UK</samp><br>
